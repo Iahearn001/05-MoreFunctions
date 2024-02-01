@@ -27,6 +27,10 @@
 #
 #   Once you have done this, then change the above _TODO_ to DONE.
 ###############################################################################
+def add(number1, number2):
+    answer1 = number1 + number2
+
+
 
 ###############################################################################
 # TODO: 2. (8 pts)
